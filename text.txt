@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 186E-8171
+
+ Directory of C:\Users\Bluechip\Desktop\Git_Practice
+
+05/03/2022  06:50 AM    <DIR>          .
+05/03/2022  06:50 AM    <DIR>          ..
+05/03/2022  06:50 AM                 0 text.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  153,074,561,024 bytes free
